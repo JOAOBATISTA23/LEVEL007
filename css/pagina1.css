@@ -1,0 +1,11 @@
+*{
+    font-family: 'Roboto';
+}
+
+button {
+    background-color: #3eb25e;
+    border-radius: 100px;
+    width: 199px;
+    font-size: 25px;
+}
+
